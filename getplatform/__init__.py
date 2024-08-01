@@ -1,1 +1,1 @@
-from getplatform import get_platform
+from getplatform.getplatform import get_platform
