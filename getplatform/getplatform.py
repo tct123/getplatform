@@ -19,5 +19,3 @@ def get_platform():
 
     return platform.system()
 
-
-print(get_platform())
